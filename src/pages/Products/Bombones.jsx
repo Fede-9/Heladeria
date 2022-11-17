@@ -21,7 +21,7 @@ export default function Bombones() {
                 <h4 className={`text-center text-${theme.color}`}>{b.name}</h4>
               </div>
 
-              <div className="d-flex justify-content-center">
+              <div className="d-flex justify-content-center p-4">
                 <div>
                   <button className="btn btn-outline-success me-3">Agregar</button>
                 </div>
